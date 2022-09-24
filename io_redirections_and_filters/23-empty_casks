@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./list -empty
+find .list -empty
