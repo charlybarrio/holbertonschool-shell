@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -lt | tail -10
+find .  -type f -printf %t | tail -10
+
