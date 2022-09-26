@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(dirCount "$_path")
+find $PATH -type d | wc -l
