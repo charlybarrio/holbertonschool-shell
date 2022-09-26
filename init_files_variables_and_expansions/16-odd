@@ -1,2 +1,2 @@
 #!/bin/bash
-past - - | cut -f 
+past - - | cut -f 1 
